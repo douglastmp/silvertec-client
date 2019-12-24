@@ -1,6 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Main features
+
+* List orders page
+
+* Filter order by client
+
+* Create order page
+
+### Available Scripts
 
 In the project directory, you can run:
 
