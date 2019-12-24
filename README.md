@@ -12,11 +12,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 ### `yarn build`
 
 Builds the app for production to the `build` folder.<br />
@@ -37,32 +32,16 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### Pages
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The project has 2 pages:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+-The first shows all orders created with a input to filter the orders by Client's Name
 
-### Code Splitting
+-The Second one it's a form to create a new Order
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+To create a new order the silvertec-server have to be up and running.
 
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+### Prints of the Project
+To see some print's of localhost pages use the following link:
+https://drive.google.com/drive/folders/1vfF4nruDv_HpuC4QO56qR23VlikFEex7?usp=sharing
